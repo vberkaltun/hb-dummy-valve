@@ -1,5 +1,5 @@
 {
-  "pluginAlias": "ExampleHomebridgePlugin",
+  "pluginAlias": "DummyValve",
   "pluginType": "platform",
   "singular": true,
   "schema": {
